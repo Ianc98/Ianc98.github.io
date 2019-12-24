@@ -1,0 +1,29 @@
+header {
+    background: #b2b2b2;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: serif;
+    color: #ffffff;
+}
+
+h2 {
+    color: #000080;
+    text-transform: uppercase;
+    font-family: serif;
+}
+
+section {
+    background: #7f7f7f;
+}
+
+a {
+    color: #000000;
+    background: #c5c5c5;
+}
+
+img {
+    display: none;
+}
